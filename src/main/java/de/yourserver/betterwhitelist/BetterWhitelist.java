@@ -3,8 +3,6 @@ package de.yourserver.betterwhitelist;
 import net.kyori.adventure.text.Component;
 import net.kyori.adventure.text.format.NamedTextColor;
 import net.luckperms.api.LuckPerms;
-import net.luckperms.api.model.user.User;
-import net.luckperms.api.node.Node;
 import org.geysermc.floodgate.api.FloodgateApi;
 import org.bukkit.Bukkit;
 import org.bukkit.OfflinePlayer;
